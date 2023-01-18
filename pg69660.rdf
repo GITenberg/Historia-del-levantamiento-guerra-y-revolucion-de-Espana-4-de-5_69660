@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/69660">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-29</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/55038">
+        <pgterms:name>Toreno, José María Queipo de Llano Ruiz de Saravia, Conde de</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1786</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1843</pgterms:deathdate>
+        <pgterms:alias>Toreno, Jose Maria Queipo de Llano Ruiz de Saravia, Conde de</pgterms:alias>
+        <pgterms:alias>Toreno, conde de</pgterms:alias>
+        <pgterms:alias>De Saravia, José María Queipo de Llano Ruiz, conde de Toreno</pgterms:alias>
+        <pgterms:alias>Ruiz de Saravia, José María Queipo de Llano, conde de Toreno</pgterms:alias>
+        <pgterms:alias>Llano Ruiz de Saravia, José María Queipo de, conde de Toreno</pgterms:alias>
+        <pgterms:alias>De Llano Ruiz de Saravia, José María Queipo, conde de Toreno</pgterms:alias>
+        <pgterms:alias>Quiepo de Llano Ruiz de Saravia, José María, conde de Toreno</pgterms:alias>
+        <pgterms:alias>Saravia, José María Queipo de Llano Ruiz de, conde de Toreno</pgterms:alias>
+        <pgterms:alias>Toreno, Conde de José María Queipo de Llano Ruiz de Saravia</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano,_7th_Count_of_Toreno"/>
+        <pgterms:webpage rdf:resource="https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>Historia del levantamiento, guerra y revolución de España (4 de 5)</dcterms:title>
+    <pgterms:marc260>Spain: Imprenta de don Tomás Jordán,1835.</pgterms:marc260>
+    <pgterms:marc508>Ramón Pajares Box and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/historiadellevan04toreuoft</pgterms:marc904>
+    <pgterms:marc905>20200307111924toreno</pgterms:marc905>
+    <pgterms:marc906>1835</pgterms:marc906>
+    <pgterms:marc907>ES</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N6a1066e6edca435f9bc0c165b7eade2b">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">es</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2dc26ab4c54c41c48081d7350ea3678a">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Peninsular War, 1807-1814 -- Campaigns -- Spain</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb1864a33bb6640cebc71d1c7df594dad">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Spain -- History -- Napoleonic Conquest, 1808-1813</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4da521968a3f45809ca7301f37b49cbb">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>DC</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd6e646bed8bc4cc3a7f7ee74f07f6b5f">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>DP</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760006</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:03.391935</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne809d0ff8d134d62bc0a6fd155a9eabf">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69660/69660-h/69660-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755503</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T15:52:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6ae3b89d06fd4068b3e17e7e82ab3135">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448637</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:29.889192</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N38318a9a816d427abeb61b26e8c9bbf1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472151</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:14.258041</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9aa313b8088e48a29a856903c29730fa">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">407405</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:07.301012</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N97c1398b4ff5495e8932687961632f63">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">673854</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:42.866325</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N32c9be41ec7941b79a73ee0017964eb7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644194</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:28.626185</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3024047a55b74e3e81a74f571f3ec68f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684749</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:01.944935</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N93c023b2dc414af7a1ee28cc832f82f1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69660/69660-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684749</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T15:52:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N51d85d40cfe14c1b86c1d2ed72759718">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/69660.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5892</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:43.101340</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7d11b39743db494ca6182b67d2f2b076">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/69660/pg69660.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8041</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:13.022017</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2c54160564744a3c893b534611216fea">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/69660/pg69660.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2180</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T17:03:12.904020</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Neea4189cf069465da81cf72e2b34ba91">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69660/69660-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254669</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T15:52:05</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N11051287a4f24747bc423e3cf7cdbe22">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N540502aaf61f4b459e48bf7d6775a776">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69660/69660-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/69660"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335338</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-29T15:52:05</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N90567893ddca46918bcd4888de4fac17">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3900d49ce4fb499b97ee55980b7dda9d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano,_7th_Count_of_Toreno">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
